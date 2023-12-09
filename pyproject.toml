@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "selenium-twitter-scraper"
+name = "selenium_twitter_scraper"
 version = "0.1.0"
 description = ""
 authors = ["nmduc <ducminhnguyen9988@gmail.com>"]
